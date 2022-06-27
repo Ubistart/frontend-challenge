@@ -1,6 +1,6 @@
-# Desafio para frontend em ReactJS
+# Desafio para frontend
 
-Bem-vindo ao desafio técnico para frontend em ReactJS da Ubistart!! :raised_hands:
+Bem-vindo ao desafio técnico para frontend da Ubistart!! :raised_hands:
 
 ![](./docs/celebration.gif)
 
@@ -35,7 +35,6 @@ Para a resolução deste desafio, esperamos que você desenvolva uma interface q
 - Escolher um nome para a aplicação **(ex.: favicon e título)**;
 - Como é um endpoint que você não tem controle o tratamento de erros é imprescindível;
 - Tratamento de rotas não existentes **(ex.: página 404)**;
-- Utilizar ContextAPI para buscar e manter informações;
 - Aplicação deve ser responsiva;
 - Publicar a aplicação (ex.: [Vercel](https://vercel.com/) ou [Netlify](https://www.netlify.com/)).
 
@@ -52,7 +51,7 @@ Para a resolução deste desafio, esperamos que você desenvolva uma interface q
 
 ### Observação
 
-Você pode utilizar frameworks baseados no ReactJS **(ex.: NextJS, ViteJS)**.
+Você pode utilizar frameworks **(ex.: NextJS, ViteJS)**.
 
 ## :eyes: &nbsp;Avaliação
 
