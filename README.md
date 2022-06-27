@@ -36,6 +36,7 @@ Para a resolução deste desafio, esperamos que você desenvolva uma interface q
 - Como é um endpoint que você não tem controle o tratamento de erros é imprescindível;
 - Tratamento de rotas não existentes **(ex.: página 404)**;
 - Utilizar ContextAPI para buscar e manter informações;
+- Aplicação deve ser responsiva;
 - Publicar a aplicação (ex.: [Vercel](https://vercel.com/) ou [Netlify](https://www.netlify.com/)).
 
 ### Opcionais
